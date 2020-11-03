@@ -7,13 +7,13 @@ tidy data is a table with dimensions 180 x 81.
 First column is the subject id.
 Second column is the activity.
 And the rest of columns have a compact name. Some hints: 
-Acc -> Accelerometer
-Gyro -> Gyroscope
-Mag -> Magnitude
-f - >Frequency
-t -> Time
-std -> Standard Deviation
-freq -> Frequency
+* Acc -> Accelerometer
+* Gyro -> Gyroscope
+* Mag -> Magnitude
+* f - >Frequency
+* t -> Time
+* std -> Standard Deviation
+* freq -> Frequency
 
 ## Steps:
 1) Read the "features.txt".
